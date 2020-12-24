@@ -5,8 +5,9 @@ Removes annoying pop-ups such as 'send super like' and others such as for upgrad
 ### Demo Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/azt3r9LlSb0/0.jpg)](https://www.youtube.com/watch?v=azt3r9LlSb0)
 
-### Screenshots
+### Screenshot
 Remove annyoing popups such as these:
+
 <img src="/screenshot/Screenshot_orig.png" alt="Kitten" title="Annoying popup" width="40%" height="40%" />
 
 ### Functionality
