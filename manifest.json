@@ -1,0 +1,24 @@
+{
+  "name": "Tinder Popup Killer",
+  "description": "Removes annoying pop-ups such as 'send super like' and others such as for upgrading the subscription. So you can keep on swiping.",
+  "version": "0.1",
+  "author": "Eimert Vink",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+      "default_title": "Tinder Popup Killer",
+      "default_icon": "x-mark-16x16.png"
+  },
+  "manifest_version": 2,
+  "content_scripts": [
+    {
+    "matches": ["https://tinder.com/*"],
+    "js": ["content.js"]
+    }
+  ]
+}
