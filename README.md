@@ -7,7 +7,7 @@ Removes annoying pop-ups such as 'send super like' and others such as for upgrad
 
 ### Screenshots
 Remove annyoing popups such as these:
-![Annoying popup|784x1042,40%](/screenshot/Screenshot_orig.png "Annoying popup")
+<img src="/screenshot/Screenshot_orig.png" alt="Kitten" title="Annoying popup" width="40%" height="40%" />
 
 ### Functionality
 - automatically detect and remove the pop-up
