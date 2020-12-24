@@ -2,6 +2,9 @@
 
 Removes annoying pop-ups such as 'send super like' and others such as for upgrading the subscription on https://tinder.com. So you can keep on swiping.
 
+### Demo
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/azt3r9LlSb0/0.jpg)](https://www.youtube.com/watch?v=azt3r9LlSb0)
+
 ### Functionality
 - automatically detect and remove the pop-up
 - console logging
