@@ -5,6 +5,10 @@ Removes annoying pop-ups such as 'send super like' and others such as for upgrad
 ### Demo Video
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/azt3r9LlSb0/0.jpg)](https://www.youtube.com/watch?v=azt3r9LlSb0)
 
+### Screenshots
+Remove annyoing popups such as these:
+![Alt text](/screenshot/Screenshot_orig.png "Annoying popup")
+
 ### Functionality
 - automatically detect and remove the pop-up
 - console logging
